@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/licenciatura-en-sistemas-react/static/css/main.073c9b0a.css",
-    "main.js": "/licenciatura-en-sistemas-react/static/js/main.02ba0ddf.js",
+    "main.js": "/licenciatura-en-sistemas-react/static/js/main.8c2d0537.js",
     "static/js/787.7add1304.chunk.js": "/licenciatura-en-sistemas-react/static/js/787.7add1304.chunk.js",
     "static/media/logo.svg": "/licenciatura-en-sistemas-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/licenciatura-en-sistemas-react/index.html",
     "main.073c9b0a.css.map": "/licenciatura-en-sistemas-react/static/css/main.073c9b0a.css.map",
-    "main.02ba0ddf.js.map": "/licenciatura-en-sistemas-react/static/js/main.02ba0ddf.js.map",
+    "main.8c2d0537.js.map": "/licenciatura-en-sistemas-react/static/js/main.8c2d0537.js.map",
     "787.7add1304.chunk.js.map": "/licenciatura-en-sistemas-react/static/js/787.7add1304.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.02ba0ddf.js"
+    "static/js/main.8c2d0537.js"
   ]
 }
